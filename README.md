@@ -3,7 +3,7 @@
 
 #### 优点：
 - 无需重启，无闪烁，实时更换；
-- 组件可动态插拔，对系统影响尽量小，针对特定Activity，特定属性；
+- 可以仅针对特定Activity，指定的属性名称换肤；
 - 适用于绝大多数基本的属性，例如：layout_width, layout_height, background, text，src，margin等
 
 #### Sample-简单示例，实现节日底部tab更换：
